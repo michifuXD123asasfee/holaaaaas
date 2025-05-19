@@ -721,3 +721,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [19May2025 01:29:52.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
 [19May2025 01:29:52.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
 [19May2025 01:29:52.740] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[19May2025 01:43:18.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.94.73.164:53647] logged in with entity id 1831 at (-77.12861671962399, 93.43940416293367, 354.2752156734441)
+[19May2025 01:43:18.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[19May2025 01:43:19.210] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[19May2025 01:43:19.213] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[19May2025 01:43:42.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[19May2025 01:43:48.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
+[19May2025 01:43:48.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[19May2025 01:43:48.639] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
