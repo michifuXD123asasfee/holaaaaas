@@ -684,3 +684,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [19May2025 01:26:08.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
 [19May2025 01:26:10.027] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
 [19May2025 01:26:10.029] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[19May2025 01:26:32.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[19May2025 01:26:38.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[19May2025 01:26:38.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[19May2025 01:26:38.343] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[19May2025 01:27:20.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/127.143.104.34:58345] logged in with entity id 1387 at (-33.5, 72.0, 30.23867750151854)
+[19May2025 01:27:20.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[19May2025 01:27:21.298] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
+[19May2025 01:27:21.299] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
+[19May2025 01:27:32.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.131.27.36:38027] logged in with entity id 1388 at (-77.12861671962399, 95.0, 354.2752156734441)
+[19May2025 01:27:32.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[19May2025 01:27:34.000] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[19May2025 01:27:34.003] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[19May2025 01:27:48.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[19May2025 01:27:49.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Disconnected
+[19May2025 01:27:49.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
+[19May2025 01:27:49.891] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client crisrob
+[19May2025 01:28:00.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[19May2025 01:28:00.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[19May2025 01:28:00.966] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[19May2025 01:28:07.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/127.143.104.34:46483] logged in with entity id 1607 at (-33.5, 72.0, 30.23867750151854)
+[19May2025 01:28:07.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[19May2025 01:28:08.095] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
+[19May2025 01:28:08.095] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
+[19May2025 01:28:27.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[19May2025 01:28:27.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: whitelist davixelpro123<--[HERE]
+[19May2025 01:28:35.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> asd
+[19May2025 01:28:37.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Timed out
+[19May2025 01:28:37.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
+[19May2025 01:28:37.531] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client crisrob
+[19May2025 01:29:22.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.94.73.164:41925] logged in with entity id 1610 at (-77.12861671962399, 93.43940416293367, 354.2752156734441)
+[19May2025 01:29:22.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[19May2025 01:29:23.281] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[19May2025 01:29:23.283] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[19May2025 01:29:40.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[19May2025 01:29:52.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
+[19May2025 01:29:52.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[19May2025 01:29:52.740] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
