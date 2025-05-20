@@ -674,3 +674,79 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [20May2025 21:05:20.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
 [20May2025 21:05:20.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
 [20May2025 21:05:28.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> wtf ?
+[20May2025 21:06:33.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was Crushed to death by Cumulonimbus
+[20May2025 21:06:35.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Cumulonimbus
+[20May2025 21:06:37.849] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3421ms or 68 ticks
+[20May2025 21:06:49.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Cumulonimbus
+[20May2025 21:06:53.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[20May2025 21:07:00.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was Crushed to death by Cumulonimbus
+[20May2025 21:07:05.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved too quickly! 2.671538069856666,-0.7531999805212024,9.748756046323479
+[20May2025 21:07:05.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> asd
+[20May2025 21:07:05.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> wtf
+[20May2025 21:07:05.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[20May2025 21:07:05.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[20May2025 21:07:05.671] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[20May2025 21:07:11.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Set own game mode to Spectator Mode]
+[20May2025 21:07:18.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:51997] logged in with entity id 10549 at (116.16344811781497, 139.0, 745.094522106259)
+[20May2025 21:07:18.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[20May2025 21:07:19.184] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3072ms or 61 ticks
+[20May2025 21:07:19.309] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[20May2025 21:07:19.311] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[20May2025 21:07:30.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Set own game mode to Survival Mode]
+[20May2025 21:07:42.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[20May2025 21:07:44.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[20May2025 21:07:44.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
+[20May2025 21:07:52.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[20May2025 21:07:55.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Cumulonimbus
+[20May2025 21:08:00.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
+[20May2025 21:08:17.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Cumulonimbus
+[20May2025 21:08:19.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[20May2025 21:08:19.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[20May2025 21:08:19.287] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[20May2025 21:08:38.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:52009] logged in with entity id 10863 at (96.30000001192093, 126.0, 742.6151815122807)
+[20May2025 21:08:38.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[20May2025 21:08:39.124] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[20May2025 21:08:39.126] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[20May2025 21:08:46.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Cumulonimbus
+[20May2025 21:08:47.756] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3145ms or 62 ticks
+[20May2025 21:09:03.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[20May2025 21:09:07.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[20May2025 21:09:07.519] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
+[20May2025 21:10:12.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[20May2025 21:10:20.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[20May2025 21:10:25.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oonde tay
+[20May2025 21:10:29.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> arriba
+[20May2025 21:10:32.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> toy asustao
+[20May2025 21:10:39.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[20May2025 21:11:02.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[20May2025 21:11:07.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has reached the goal [Quaint Scribe]
+[20May2025 21:11:15.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> bro
+[20May2025 21:11:18.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> yo tengo 3
+[20May2025 21:11:19.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> :v
+[20May2025 21:11:21.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[20May2025 21:11:27.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me hubieras preguntado
+[20May2025 21:11:30.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> pendejo
+[20May2025 21:11:37.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[20May2025 21:13:26.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Cumulonimbus
+[20May2025 21:13:26.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Cumulonimbus
+[20May2025 21:13:47.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
+[20May2025 21:13:54.411] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3054ms or 61 ticks
+[20May2025 21:14:03.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[20May2025 21:14:03.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[20May2025 21:14:03.825] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[20May2025 21:15:08.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:52044] logged in with entity id 12691 at (82.81441026710517, 117.0, 721.7575365757627)
+[20May2025 21:15:08.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[20May2025 21:15:09.850] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[20May2025 21:15:09.854] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[20May2025 21:15:30.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[20May2025 21:16:12.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[20May2025 21:16:12.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[20May2025 21:16:12.378] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[20May2025 21:16:25.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was Crushed to death by Cumulonimbus
+[20May2025 21:16:34.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:52056] logged in with entity id 13689 at (82.81441026710517, 117.0, 721.7575365757627)
+[20May2025 21:16:34.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[20May2025 21:16:35.197] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[20May2025 21:16:35.200] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[20May2025 21:16:49.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Timed out
+[20May2025 21:16:49.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
+[20May2025 21:16:49.077] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client crisrob
