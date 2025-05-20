@@ -43,8 +43,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-05-20 21:00:19 +0000",
+      "minecraft:wooded_badlands": "2025-05-20 20:30:48 +0000",
+      "minecraft:badlands": "2025-05-20 20:29:32 +0000",
       "minecraft:beach": "2025-05-20 00:10:25 +0000",
       "minecraft:river": "2025-05-20 00:03:39 +0000",
+      "minecraft:stony_shore": "2025-05-20 20:38:21 +0000",
       "minecraft:dripstone_caves": "2025-05-20 00:20:32 +0000",
       "minecraft:forest": "2025-05-19 23:56:29 +0000",
       "minecraft:desert": "2025-05-20 00:22:52 +0000",
@@ -1424,6 +1428,84 @@
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-05-20 01:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-20 20:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-05-20 20:09:10 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-20 20:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-20 20:15:36 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-05-20 20:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-20 20:30:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-05-20 20:30:34 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-05-20 20:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-20 20:32:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-05-20 20:32:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-20 20:39:50 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-05-20 21:00:46 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-05-20 21:01:45 +0000"
     },
     "done": true
   },

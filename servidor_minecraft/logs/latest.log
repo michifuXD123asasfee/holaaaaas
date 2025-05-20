@@ -1,54 +1,54 @@
-[20May2025 20:00:54.833] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[20May2025 20:00:54.838] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[20May2025 20:00:56.427] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[20May2025 20:00:56.508] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/holaaaaas/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[20May2025 20:00:56.973] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holaaaaas/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[20May2025 20:00:56.976] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holaaaaas/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20May2025 20:00:56.978] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holaaaaas/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20May2025 20:00:56.982] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holaaaaas/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20May2025 20:00:57.419] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[20May2025 20:00:57.423] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/holaaaaas/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
-[20May2025 20:00:57.426] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
-[20May2025 20:01:01.113] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[20May2025 20:01:01.219] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
-[20May2025 20:01:01.225] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
-[20May2025 20:01:01.403] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
-[20May2025 20:01:01.472] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[20May2025 20:01:01.812] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 101 options available, 0 override(s) found
-[20May2025 20:01:01.884] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[20May2025 20:01:01.930] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[20May2025 20:01:02.067] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[20May2025 20:01:02.076] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[20May2025 20:01:02.098] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[20May2025 20:01:04.062] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
-[20May2025 20:01:04.063] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
-[20May2025 20:01:04.070] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity)
-[20May2025 20:01:04.070] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/CookingPotBlockEntityMixin
-[20May2025 20:01:04.077] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/StoveBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.StoveBlockEntity)
-[20May2025 20:01:04.077] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.StoveBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/StoveBlockEntityMixin
-[20May2025 20:01:04.084] [main/WARN] [mixin/]: Error loading class: fuzs/visualworkbench/world/inventory/ModCraftingMenu (java.lang.ClassNotFoundException: fuzs.visualworkbench.world.inventory.ModCraftingMenu)
-[20May2025 20:01:04.084] [main/WARN] [mixin/]: @Mixin target fuzs.visualworkbench.world.inventory.ModCraftingMenu was not found itemproductionlib.mixins.json:visualworkbench/ModCraftingMenuMixin
-[20May2025 20:01:04.169] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
-[20May2025 20:01:04.170] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/ModEnchantmentMenuMixin
-[20May2025 20:01:04.175] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
-[20May2025 20:01:04.178] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin
-[20May2025 20:01:04.181] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe)
-[20May2025 20:01:04.183] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin
-[20May2025 20:01:04.189] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus)
-[20May2025 20:01:04.189] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin
-[20May2025 20:01:04.194] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus)
-[20May2025 20:01:04.194] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin
-[20May2025 20:01:04.818] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[20May2025 20:01:04.818] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[20May2025 20:01:05.085] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/Contraption (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.Contraption)
-[20May2025 20:01:05.088] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.Contraption was not found simpleradio.forge.mixins.json:MixinContraption
-[20May2025 20:01:05.094] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/AbstractContraptionEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.AbstractContraptionEntity)
-[20May2025 20:01:05.095] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.AbstractContraptionEntity was not found simpleradio.forge.mixins.json:MixinAbstractContraptionEntity
-[20May2025 20:01:05.380] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20May2025 20:01:15.750] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[20May2025 20:46:06.781] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[20May2025 20:46:06.789] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[20May2025 20:46:07.705] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[20May2025 20:46:07.774] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/holaaaaas/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[20May2025 20:46:08.194] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holaaaaas/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[20May2025 20:46:08.199] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holaaaaas/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20May2025 20:46:08.200] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holaaaaas/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20May2025 20:46:08.203] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holaaaaas/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20May2025 20:46:08.593] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[20May2025 20:46:08.595] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/holaaaaas/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
+[20May2025 20:46:08.596] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
+[20May2025 20:46:12.147] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20May2025 20:46:12.223] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[20May2025 20:46:12.231] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[20May2025 20:46:12.385] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
+[20May2025 20:46:12.427] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[20May2025 20:46:12.680] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 101 options available, 0 override(s) found
+[20May2025 20:46:12.724] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[20May2025 20:46:12.757] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[20May2025 20:46:12.837] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[20May2025 20:46:12.845] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[20May2025 20:46:12.862] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[20May2025 20:46:14.393] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
+[20May2025 20:46:14.397] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
+[20May2025 20:46:14.403] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity)
+[20May2025 20:46:14.407] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/CookingPotBlockEntityMixin
+[20May2025 20:46:14.412] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/StoveBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.StoveBlockEntity)
+[20May2025 20:46:14.414] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.StoveBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/StoveBlockEntityMixin
+[20May2025 20:46:14.421] [main/WARN] [mixin/]: Error loading class: fuzs/visualworkbench/world/inventory/ModCraftingMenu (java.lang.ClassNotFoundException: fuzs.visualworkbench.world.inventory.ModCraftingMenu)
+[20May2025 20:46:14.422] [main/WARN] [mixin/]: @Mixin target fuzs.visualworkbench.world.inventory.ModCraftingMenu was not found itemproductionlib.mixins.json:visualworkbench/ModCraftingMenuMixin
+[20May2025 20:46:14.462] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
+[20May2025 20:46:14.467] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/ModEnchantmentMenuMixin
+[20May2025 20:46:14.473] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
+[20May2025 20:46:14.476] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin
+[20May2025 20:46:14.480] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe)
+[20May2025 20:46:14.483] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin
+[20May2025 20:46:14.490] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus)
+[20May2025 20:46:14.492] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin
+[20May2025 20:46:14.498] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus)
+[20May2025 20:46:14.499] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin
+[20May2025 20:46:14.856] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[20May2025 20:46:14.859] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[20May2025 20:46:15.146] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/Contraption (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.Contraption)
+[20May2025 20:46:15.147] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.Contraption was not found simpleradio.forge.mixins.json:MixinContraption
+[20May2025 20:46:15.157] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/AbstractContraptionEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.AbstractContraptionEntity)
+[20May2025 20:46:15.164] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.AbstractContraptionEntity was not found simpleradio.forge.mixins.json:MixinAbstractContraptionEntity
+[20May2025 20:46:15.369] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20May2025 20:46:25.440] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[20May2025 20:01:17.100] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@18a19e on thread Thread[modloading-worker-0,5,main]
-[20May2025 20:01:17.100] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[20May2025 20:46:26.657] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@233db8e9 on thread Thread[modloading-worker-0,5,main]
+[20May2025 20:46:26.664] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -96,53 +96,54 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[20May2025 20:01:17.110] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[20May2025 20:01:17.488] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[20May2025 20:01:17.491] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[20May2025 20:01:17.497] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[20May2025 20:01:17.498] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[20May2025 20:01:17.503] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[20May2025 20:01:17.506] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[20May2025 20:01:17.508] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[20May2025 20:01:17.512] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[20May2025 20:01:18.105] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
-[20May2025 20:01:18.164] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[20May2025 20:01:18.167] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[20May2025 20:01:18.276] [modloading-worker-0/INFO] [MoreTotems/]: Hello Forge world!
-[20May2025 20:01:19.159] [modloading-worker-0/INFO] [Lexiconfig/]: Beginning lexicon shelving!
-[20May2025 20:01:19.177] [modloading-worker-0/INFO] [Lexiconfig/]: Shelved lexicon com.codinglitch.lexiconfig.LexiconfigConfig@14dde61f!
-[20May2025 20:01:19.198] [modloading-worker-0/INFO] [Lexiconfig/]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@156ff263!
-[20May2025 20:01:19.202] [modloading-worker-0/INFO] [Lexiconfig/]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@6a0765bb!
-[20May2025 20:01:19.212] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[20May2025 20:01:19.528] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[20May2025 20:01:20.126] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing YACLConfig from '/workspaces/holaaaaas/servidor_minecraft/config/yacl.json5'
-[20May2025 20:01:20.221] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[20May2025 20:01:24.462] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[20May2025 20:01:25.301] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
-[20May2025 20:01:25.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
-[20May2025 20:01:26.005] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[20May2025 20:01:26.215] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[20May2025 20:01:26.240] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[20May2025 20:01:26.240] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[20May2025 20:01:26.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
-[20May2025 20:01:26.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[20May2025 20:01:26.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
-[20May2025 20:01:26.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
-[20May2025 20:01:26.321] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[20May2025 20:01:26.325] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'simpleradio'
-[20May2025 20:01:26.695] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
+[20May2025 20:46:26.679] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[20May2025 20:46:27.122] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[20May2025 20:46:27.125] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[20May2025 20:46:27.130] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[20May2025 20:46:27.133] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[20May2025 20:46:27.135] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[20May2025 20:46:27.138] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[20May2025 20:46:27.139] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[20May2025 20:46:27.145] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[20May2025 20:46:27.836] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[20May2025 20:46:27.924] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[20May2025 20:46:27.924] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[20May2025 20:46:28.175] [modloading-worker-0/INFO] [MoreTotems/]: Hello Forge world!
+[20May2025 20:46:29.194] [modloading-worker-0/INFO] [Lexiconfig/]: Beginning lexicon shelving!
+[20May2025 20:46:29.218] [modloading-worker-0/INFO] [Lexiconfig/]: Shelved lexicon com.codinglitch.lexiconfig.LexiconfigConfig@2078e5da!
+[20May2025 20:46:29.241] [modloading-worker-0/INFO] [Lexiconfig/]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@5c7bd558!
+[20May2025 20:46:29.241] [modloading-worker-0/INFO] [Lexiconfig/]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@6ba99c0d!
+[20May2025 20:46:29.252] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[20May2025 20:46:29.609] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[20May2025 20:46:30.085] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing YACLConfig from '/workspaces/holaaaaas/servidor_minecraft/config/yacl.json5'
+[20May2025 20:46:30.229] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[20May2025 20:46:34.679] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[20May2025 20:46:35.436] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
+[20May2025 20:46:35.681] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
+[20May2025 20:46:36.211] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[20May2025 20:46:36.411] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[20May2025 20:46:36.437] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[20May2025 20:46:36.439] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[20May2025 20:46:36.491] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[20May2025 20:46:36.497] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'simpleradio'
+[20May2025 20:46:36.621] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
+[20May2025 20:46:36.621] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[20May2025 20:46:36.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
+[20May2025 20:46:36.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[20May2025 20:46:36.955] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
 
-[20May2025 20:01:26.703] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[20May2025 20:01:26.715] [modloading-worker-0/INFO] [Lexiconfig/]: Cataloging lexicon com.codinglitch.lexiconfig.LexiconfigConfig@14dde61f!
-[20May2025 20:01:26.730] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 61 compatible attributes.
-[20May2025 20:01:26.738] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 61 values from config.
-[20May2025 20:01:26.751] [modloading-worker-0/INFO] [Lexiconfig/]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@156ff263!
-[20May2025 20:01:26.775] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
-[20May2025 20:01:26.775] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[20May2025 20:01:26.777] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 61 entries.
-[20May2025 20:01:26.777] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 61 attributes.
-[20May2025 20:01:26.785] [modloading-worker-0/INFO] [Lexiconfig/]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@6a0765bb!
-[20May2025 20:01:26.795] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[20May2025 20:46:36.972] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[20May2025 20:46:37.005] [modloading-worker-0/INFO] [Lexiconfig/]: Cataloging lexicon com.codinglitch.lexiconfig.LexiconfigConfig@2078e5da!
+[20May2025 20:46:37.011] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 61 compatible attributes.
+[20May2025 20:46:37.038] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 61 values from config.
+[20May2025 20:46:37.062] [modloading-worker-0/INFO] [Lexiconfig/]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@5c7bd558!
+[20May2025 20:46:37.074] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 61 entries.
+[20May2025 20:46:37.076] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 61 attributes.
+[20May2025 20:46:37.091] [modloading-worker-0/INFO] [Lexiconfig/]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@6ba99c0d!
+[20May2025 20:46:37.103] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[20May2025 20:46:37.104] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[20May2025 20:46:37.115] [modloading-worker-0/INFO] [Lexiconfig/]: Lexiconfig cataloging completed!
+[20May2025 20:46:37.123] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -157,19 +158,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[20May2025 20:01:26.799] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
-[20May2025 20:01:26.802] [modloading-worker-0/INFO] [Lexiconfig/]: Lexiconfig cataloging completed!
-[20May2025 20:01:26.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.22a Target: 0.6.22a
-[20May2025 20:01:26.917] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[20May2025 20:01:27.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[20May2025 20:01:27.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[20May2025 20:01:27.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
-[20May2025 20:01:27.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[20May2025 20:01:27.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[20May2025 20:01:27.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[20May2025 20:01:27.883] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
-[20May2025 20:01:27.883] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[20May2025 20:01:27.900] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[20May2025 20:46:37.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[20May2025 20:46:37.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.22a Target: 0.6.22a
+[20May2025 20:46:37.306] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20May2025 20:46:37.541] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[20May2025 20:46:37.542] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[20May2025 20:46:38.318] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
+[20May2025 20:46:38.318] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[20May2025 20:46:38.337] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[20May2025 20:46:38.337] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[20May2025 20:46:38.370] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[20May2025 20:46:38.371] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[20May2025 20:46:38.387] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -184,11 +184,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[20May2025 20:01:31.414] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20May2025 20:01:33.690] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/holaaaaas/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/assets/.mcassetsroot' uses unexpected schema
-[20May2025 20:01:33.690] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/holaaaaas/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/data/.mcassetsroot' uses unexpected schema
-[20May2025 20:01:35.965] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[20May2025 20:01:37.812] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+[20May2025 20:46:41.655] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20May2025 20:46:44.522] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/holaaaaas/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/assets/.mcassetsroot' uses unexpected schema
+[20May2025 20:46:44.522] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/holaaaaas/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/data/.mcassetsroot' uses unexpected schema
+[20May2025 20:46:47.151] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[20May2025 20:46:49.165] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -240,15 +240,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[20May2025 20:01:41.198] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_boots as it's serializer returned null
-[20May2025 20:01:41.204] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_chestplate_ritual as it's serializer returned null
-[20May2025 20:01:41.214] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_chestplate as it's serializer returned null
-[20May2025 20:01:41.228] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_boots as it's serializer returned null
-[20May2025 20:01:41.239] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleradio:walkie_talkie as it's serializer returned null
-[20May2025 20:01:41.244] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_boots as it's serializer returned null
-[20May2025 20:01:41.254] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_chestplate_array as it's serializer returned null
-[20May2025 20:01:41.261] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_helmet as it's serializer returned null
-[20May2025 20:01:41.265] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_amethyst_samurai_helmet
+[20May2025 20:46:52.542] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_boots as it's serializer returned null
+[20May2025 20:46:52.550] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_chestplate_ritual as it's serializer returned null
+[20May2025 20:46:52.563] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_chestplate as it's serializer returned null
+[20May2025 20:46:52.571] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_boots as it's serializer returned null
+[20May2025 20:46:52.576] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleradio:walkie_talkie as it's serializer returned null
+[20May2025 20:46:52.580] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_boots as it's serializer returned null
+[20May2025 20:46:52.591] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_chestplate_array as it's serializer returned null
+[20May2025 20:46:52.598] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_helmet as it's serializer returned null
+[20May2025 20:46:52.603] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_amethyst_samurai_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_amethyst_samurai_helmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
@@ -281,7 +281,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_amethyst
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20May2025 20:01:41.275] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+[20May2025 20:46:52.609] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
 com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -319,11 +319,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20May2025 20:01:41.283] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_chestplate as it's serializer returned null
-[20May2025 20:01:41.287] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_helmet as it's serializer returned null
-[20May2025 20:01:41.295] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_leggings_ritual as it's serializer returned null
-[20May2025 20:01:41.307] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_helmet_smithing as it's serializer returned null
-[20May2025 20:01:41.311] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:samurai_guide
+[20May2025 20:46:52.618] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_chestplate as it's serializer returned null
+[20May2025 20:46:52.619] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_helmet as it's serializer returned null
+[20May2025 20:46:52.626] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_leggings_ritual as it's serializer returned null
+[20May2025 20:46:52.634] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_helmet_smithing as it's serializer returned null
+[20May2025 20:46:52.641] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:samurai_guide
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
@@ -356,17 +356,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20May2025 20:01:41.318] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_helmet as it's serializer returned null
-[20May2025 20:01:41.328] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_helmet_ritual as it's serializer returned null
-[20May2025 20:01:41.344] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_chestplate as it's serializer returned null
-[20May2025 20:01:41.355] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_leggings as it's serializer returned null
-[20May2025 20:01:41.359] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_leggings as it's serializer returned null
-[20May2025 20:01:41.364] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_leggings as it's serializer returned null
-[20May2025 20:01:41.370] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_leggings as it's serializer returned null
-[20May2025 20:01:41.371] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_boots as it's serializer returned null
-[20May2025 20:01:41.377] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_chestplate_smithing as it's serializer returned null
-[20May2025 20:01:41.389] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_leggings_array as it's serializer returned null
-[20May2025 20:01:41.392] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_netherite_samurai_helmet
+[20May2025 20:46:52.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_helmet as it's serializer returned null
+[20May2025 20:46:52.670] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_helmet_ritual as it's serializer returned null
+[20May2025 20:46:52.681] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_chestplate as it's serializer returned null
+[20May2025 20:46:52.689] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_leggings as it's serializer returned null
+[20May2025 20:46:52.693] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_leggings as it's serializer returned null
+[20May2025 20:46:52.697] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_leggings as it's serializer returned null
+[20May2025 20:46:52.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_leggings as it's serializer returned null
+[20May2025 20:46:52.706] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_boots as it's serializer returned null
+[20May2025 20:46:52.715] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_chestplate_smithing as it's serializer returned null
+[20May2025 20:46:52.720] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_leggings_array as it's serializer returned null
+[20May2025 20:46:52.724] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_netherite_samurai_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_netherite_samurai_helmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
@@ -399,7 +399,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_netherit
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20May2025 20:01:41.415] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[20May2025 20:46:52.734] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -437,7 +437,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20May2025 20:01:41.425] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_quartz_samurai_helmet
+[20May2025 20:46:52.744] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_quartz_samurai_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_samurai_helmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
@@ -470,7 +470,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20May2025 20:01:41.432] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[20May2025 20:46:52.752] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -499,9 +499,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20May2025 20:01:41.436] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_chestplate_mechanical_crafting as it's serializer returned null
-[20May2025 20:01:41.439] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_boots_mechanical_crafting as it's serializer returned null
-[20May2025 20:01:41.441] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[20May2025 20:46:52.759] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_chestplate_mechanical_crafting as it's serializer returned null
+[20May2025 20:46:52.766] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_boots_mechanical_crafting as it's serializer returned null
+[20May2025 20:46:52.775] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
@@ -534,13 +534,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20May2025 20:01:41.444] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_helmet as it's serializer returned null
-[20May2025 20:01:41.445] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_boots_ritual as it's serializer returned null
-[20May2025 20:01:41.446] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_leggings_smithing as it's serializer returned null
-[20May2025 20:01:41.454] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_repair_kit_mechanical_crafting as it's serializer returned null
-[20May2025 20:01:41.455] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_boots_smithing as it's serializer returned null
-[20May2025 20:01:41.457] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_leggings_mechanical_crafting as it's serializer returned null
-[20May2025 20:01:41.458] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_straw_hat
+[20May2025 20:46:52.786] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_helmet as it's serializer returned null
+[20May2025 20:46:52.791] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_boots_ritual as it's serializer returned null
+[20May2025 20:46:52.792] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_leggings_smithing as it's serializer returned null
+[20May2025 20:46:52.804] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_repair_kit_mechanical_crafting as it's serializer returned null
+[20May2025 20:46:52.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_boots_smithing as it's serializer returned null
+[20May2025 20:46:52.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_leggings_mechanical_crafting as it's serializer returned null
+[20May2025 20:46:52.807] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_straw_hat
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_hat'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
@@ -573,132 +573,104 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20May2025 20:01:41.469] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_helmet_mechanical_crafting as it's serializer returned null
-[20May2025 20:01:41.470] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_helmet as it's serializer returned null
-[20May2025 20:01:41.470] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_chestplate as it's serializer returned null
-[20May2025 20:01:41.477] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_array as it's serializer returned null
-[20May2025 20:01:41.499] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 20 recipes
-[20May2025 20:01:41.800] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement zombiesmore:kaboom: Task Advancement{parentId=zombiesmore:kaboom, display=net.minecraft.advancements.DisplayInfo@7e34a6c0, rewards=AdvancementRewards{experience=5, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@4ce77187}, criteria={kaboom_0=net.minecraft.advancements.Criterion@519a4df5}, requirements=[[kaboom_0]], sends_telemetry_event=false}
-[20May2025 20:01:41.801] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2437 advancements
-[20May2025 20:01:41.965] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 20 curio slots
-[20May2025 20:01:41.976] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio entities
-[20May2025 20:01:43.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[20May2025 20:01:43.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[20May2025 20:01:43.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[20May2025 20:01:43.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[20May2025 20:01:43.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[20May2025 20:01:43.830] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[20May2025 20:01:43.953] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20May2025 20:01:43.954] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[20May2025 20:01:43.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20May2025 20:01:43.956] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[20May2025 20:01:44.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[20May2025 20:01:52.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[20May2025 20:02:04.299] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1322147 ms
-[20May2025 20:02:04.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.325s)! For help, type "help"
-[20May2025 20:02:04.387] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[20May2025 20:02:04.439] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[20May2025 20:02:04.453] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[20May2025 20:02:56.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/172.23.165.195:50215] logged in with entity id 133 at (5245.819171172188, 71.0, 2905.9498788777746)
-[20May2025 20:02:56.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
-[20May2025 20:03:02.012] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
-[20May2025 20:03:02.027] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
-[20May2025 20:03:02.048] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 6459ms or 129 ticks
-[20May2025 20:03:02.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5678ms or 113 ticks behind
-[20May2025 20:03:07.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:51689] logged in with entity id 342 at (112.5, 125.0, 670.5)
-[20May2025 20:03:07.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
-[20May2025 20:03:09.764] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
-[20May2025 20:03:09.772] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
-[20May2025 20:03:11.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef40286f-d554-34b8-a90a-d191eb82b21b
-[20May2025 20:03:12.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef40286f-d554-34b8-a90a-d191eb82b21b
-[20May2025 20:03:12.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat
-[20May2025 20:03:19.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2723ms or 54 ticks behind
-[20May2025 20:03:27.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 440519aa-b504-3d33-a29d-8bfbe2066cf3
-[20May2025 20:03:29.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
-[20May2025 20:03:29.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
-[20May2025 20:03:41.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
-[20May2025 20:03:44.989] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3118ms or 62 ticks
-[20May2025 20:03:45.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[20May2025 20:03:47.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que rico
-[20May2025 20:03:50.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[20May2025 20:03:56.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por que va tan bien ?
-[20May2025 20:03:58.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que el net valla como avion y los fps tambien
-[20May2025 20:04:08.959] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3101ms or 62 ticks
-[20May2025 20:04:24.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Hovering Hurricane
-[20May2025 20:04:31.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Wadjet
-[20May2025 20:04:41.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Wadjet
-[20May2025 20:04:45.721] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3098ms or 61 ticks
-[20May2025 20:04:50.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[20May2025 20:05:11.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Hovering Hurricane
-[20May2025 20:05:16.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Hovering Hurricane
-[20May2025 20:05:25.509] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3106ms or 62 ticks
-[20May2025 20:05:44.700] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3088ms or 61 ticks
-[20May2025 20:06:16.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> asd
-[20May2025 20:06:27.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ta el tremendo boss donde toy yo
-[20May2025 20:06:27.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Disconnected
-[20May2025 20:06:27.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
-[20May2025 20:06:27.513] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client crisrob
-[20May2025 20:06:27.602] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3109ms or 62 ticks
-[20May2025 20:06:54.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/172.23.165.195:50228] logged in with entity id 4228 at (5150.682563708443, 70.0, 2914.0242147791887)
-[20May2025 20:06:54.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
-[20May2025 20:06:55.966] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
-[20May2025 20:06:55.969] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
-[20May2025 20:06:55.970] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3048ms or 60 ticks
-[20May2025 20:07:03.943] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef40286f-d554-34b8-a90a-d191eb82b21b
-[20May2025 20:07:04.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef40286f-d554-34b8-a90a-d191eb82b21b
-[20May2025 20:07:04.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat
-[20May2025 20:07:07.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> asd
-[20May2025 20:07:11.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ??
-[20May2025 20:07:17.264] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3040ms or 60 ticks
-[20May2025 20:07:18.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> nada que de seguro me saco
-[20May2025 20:07:22.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[20May2025 20:07:26.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> envie un mensaje y no lo vi
-[20May2025 20:07:32.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> unite al group
-[20May2025 20:07:39.427] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3033ms or 60 ticks
-[20May2025 20:07:40.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> asd
-[20May2025 20:07:43.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[20May2025 20:07:54.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Hovering Hurricane
-[20May2025 20:08:01.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Disconnected
-[20May2025 20:08:01.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
-[20May2025 20:08:01.103] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client crisrob
-[20May2025 20:08:09.248] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3086ms or 61 ticks
-[20May2025 20:08:16.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! 0.2315800749046275,2.4983999884128565,9.739688153704265
-[20May2025 20:08:18.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/172.23.165.195:50233] logged in with entity id 5676 at (5152.181944430632, 71.0, 2836.5873032275463)
-[20May2025 20:08:18.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
-[20May2025 20:08:19.830] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
-[20May2025 20:08:19.833] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
-[20May2025 20:08:26.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef40286f-d554-34b8-a90a-d191eb82b21b
-[20May2025 20:08:27.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef40286f-d554-34b8-a90a-d191eb82b21b
-[20May2025 20:08:27.943] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat
-[20May2025 20:08:28.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
-[20May2025 20:08:28.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
-[20May2025 20:08:28.704] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
-[20May2025 20:08:47.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:51702] logged in with entity id 6218 at (112.62844751181592, 126.0, 698.9433778788905)
-[20May2025 20:08:47.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
-[20May2025 20:08:49.064] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
-[20May2025 20:08:49.068] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
-[20May2025 20:08:49.076] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4469ms or 89 ticks
-[20May2025 20:08:58.782] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 440519aa-b504-3d33-a29d-8bfbe2066cf3
-[20May2025 20:08:59.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
-[20May2025 20:08:59.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
-[20May2025 20:09:01.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
-[20May2025 20:09:05.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ay ta
-[20May2025 20:09:08.974] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3028ms or 60 ticks
-[20May2025 20:09:15.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Amateur Archaeologist]
-[20May2025 20:09:18.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> donde te salias y unias me lageaste todo
-[20May2025 20:09:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Hovering Hurricane
-[20May2025 20:09:38.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Hovering Hurricane
-[20May2025 20:09:48.569] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3021ms or 60 ticks
-[20May2025 20:09:55.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no se que pasa pero los items no se juntan tengo que soltarlos para que se junten
-[20May2025 20:10:02.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[20May2025 20:10:09.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> si tan como bugs algunos
-[20May2025 20:10:12.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tambien me pasas
-[20May2025 20:10:15.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[20May2025 20:10:15.971] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3083ms or 61 ticks
-[20May2025 20:10:18.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Hovering Hurricane
-[20May2025 20:10:21.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ta como raro
-[20May2025 20:10:33.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Hovering Hurricane
-[20May2025 20:10:46.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 440519aa-b504-3d33-a29d-8bfbe2066cf3 timed out
-[20May2025 20:10:46.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player davixelpro123
-[20May2025 20:10:46.091] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
-[20May2025 20:10:47.378] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3121ms or 62 ticks
+[20May2025 20:46:52.821] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_helmet_mechanical_crafting as it's serializer returned null
+[20May2025 20:46:52.825] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_helmet as it's serializer returned null
+[20May2025 20:46:52.825] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_chestplate as it's serializer returned null
+[20May2025 20:46:52.830] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_array as it's serializer returned null
+[20May2025 20:46:52.840] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 20 recipes
+[20May2025 20:46:53.172] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement zombiesmore:kaboom: Task Advancement{parentId=zombiesmore:kaboom, display=net.minecraft.advancements.DisplayInfo@443f3232, rewards=AdvancementRewards{experience=5, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@7987a850}, criteria={kaboom_0=net.minecraft.advancements.Criterion@2c8c5ce6}, requirements=[[kaboom_0]], sends_telemetry_event=false}
+[20May2025 20:46:53.174] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2437 advancements
+[20May2025 20:46:53.405] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 20 curio slots
+[20May2025 20:46:53.421] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio entities
+[20May2025 20:46:55.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[20May2025 20:46:55.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20May2025 20:46:55.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20May2025 20:46:55.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20May2025 20:46:55.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20May2025 20:46:55.567] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20May2025 20:46:55.668] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20May2025 20:46:55.671] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20May2025 20:46:55.673] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20May2025 20:46:55.673] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20May2025 20:46:55.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20May2025 20:47:03.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20May2025 20:47:15.720] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4033569 ms
+[20May2025 20:47:15.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.028s)! For help, type "help"
+[20May2025 20:47:15.782] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20May2025 20:47:15.823] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20May2025 20:47:15.837] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[20May2025 20:47:36.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/172.23.165.195:50335] logged in with entity id 137 at (4654.3542529991055, 64.41999998688698, 3539.699999988079)
+[20May2025 20:47:37.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[20May2025 20:47:37.568] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
+[20May2025 20:47:37.575] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
+[20May2025 20:47:39.888] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3911ms or 78 ticks
+[20May2025 20:47:39.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2979ms or 59 ticks behind
+[20May2025 20:47:44.823] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef40286f-d554-34b8-a90a-d191eb82b21b
+[20May2025 20:47:45.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef40286f-d554-34b8-a90a-d191eb82b21b
+[20May2025 20:47:45.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat
+[20May2025 20:47:54.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server altiro me conecto
+[20May2025 20:48:00.972] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3104ms or 62 ticks
+[20May2025 20:48:03.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20May2025 20:48:31.275] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3052ms or 61 ticks
+[20May2025 20:48:42.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was killed
+[20May2025 20:48:42.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Killed crisrob]
+[20May2025 20:48:46.599] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3777ms or 75 ticks
+[20May2025 20:48:46.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
+[20May2025 20:49:31.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> asd
+[20May2025 20:49:37.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Timed out
+[20May2025 20:49:37.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
+[20May2025 20:49:37.236] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client crisrob
+[20May2025 20:49:37.285] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20May2025 20:50:05.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/172.23.165.195:50344] logged in with entity id 1814 at (5193.234016926794, 71.0, 2859.4761511325)
+[20May2025 20:50:05.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[20May2025 20:50:06.582] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
+[20May2025 20:50:06.583] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
+[20May2025 20:50:06.585] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3556ms or 71 ticks
+[20May2025 20:50:12.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef40286f-d554-34b8-a90a-d191eb82b21b
+[20May2025 20:50:13.615] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef40286f-d554-34b8-a90a-d191eb82b21b
+[20May2025 20:50:13.615] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat
+[20May2025 20:51:00.595] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4813, y=36, z=2480}
+[20May2025 20:53:46.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved too quickly! 1.5070811526775287,-11.186365177617219,1.1397927199222977
+[20May2025 20:53:48.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob fell from a high place
+[20May2025 20:53:50.075] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3129ms or 62 ticks
+[20May2025 20:54:07.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Set own game mode to Spectator Mode]
+[20May2025 20:54:50.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Set own game mode to Survival Mode]
+[20May2025 20:54:55.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> asd
+[20May2025 20:55:56.477] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3131ms or 62 ticks
+[20May2025 20:57:37.117] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3089ms or 61 ticks
+[20May2025 20:58:48.745] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ef40286f-d554-34b8-a90a-d191eb82b21b timed out
+[20May2025 20:58:48.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player crisrob
+[20May2025 20:58:48.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
+[20May2025 20:58:50.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved too quickly! 3.2477611822221633,2.0,9.30240688457161
+[20May2025 20:58:50.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> asd
+[20May2025 20:59:00.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Disconnected
+[20May2025 20:59:00.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
+[20May2025 20:59:00.033] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client crisrob
+[20May2025 20:59:32.228] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/172.23.165.195:50352] logged in with entity id 5950 at (41.80726718796384, 112.7531999805212, 692.6016646172417)
+[20May2025 20:59:32.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[20May2025 20:59:33.298] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
+[20May2025 20:59:33.301] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
+[20May2025 20:59:34.317] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3079ms or 61 ticks
+[20May2025 20:59:45.340] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef40286f-d554-34b8-a90a-d191eb82b21b
+[20May2025 20:59:46.350] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef40286f-d554-34b8-a90a-d191eb82b21b
+[20May2025 20:59:46.350] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat
+[20May2025 21:00:46.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Made From Clouds...]
+[20May2025 21:01:16.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was crushed by Cryomancer's giant block of ice
+[20May2025 21:01:45.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [A Terrifying Entrance]
+[20May2025 21:02:38.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Tools of the Trade]
+[20May2025 21:02:40.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has completed the challenge [Premium!]
+[20May2025 21:03:08.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Hovering Hurricane
+[20May2025 21:03:09.969] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3074ms or 61 ticks
+[20May2025 21:04:37.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Cumulonimbus
+[20May2025 21:04:42.104] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3063ms or 61 ticks
+[20May2025 21:04:55.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Haunted Knight
+[20May2025 21:05:03.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:51983] logged in with entity id 9345 at (96.5, 126.0, 744.5)
+[20May2025 21:05:03.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[20May2025 21:05:03.252] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3160ms or 63 ticks
+[20May2025 21:05:03.619] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[20May2025 21:05:03.627] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[20May2025 21:05:16.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[20May2025 21:05:19.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[20May2025 21:05:20.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[20May2025 21:05:20.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
+[20May2025 21:05:28.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> wtf ?
