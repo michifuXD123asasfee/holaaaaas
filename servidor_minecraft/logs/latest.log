@@ -659,3 +659,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [21May2025 01:09:19.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asdasda
 [21May2025 01:09:36.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
 [21May2025 01:09:44.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! 0.0,10.125000402331352,0.0
+[21May2025 01:10:09.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[21May2025 01:10:27.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -8.98593901326145,0.0,4.55961435600625
+[21May2025 01:10:29.951] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3006ms or 60 ticks
+[21May2025 01:10:45.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[21May2025 01:10:51.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[21May2025 01:11:12.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[21May2025 01:11:35.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[21May2025 01:11:43.984] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3100ms or 62 ticks
+[21May2025 01:16:59.601] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3021ms or 60 ticks
+[21May2025 01:17:54.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[21May2025 01:18:02.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[21May2025 01:18:31.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was killed
+[21May2025 01:18:31.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Killed davixelpro123]
+[21May2025 01:18:33.644] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3136ms or 62 ticks
+[21May2025 01:18:37.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[21May2025 01:18:58.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[21May2025 01:19:16.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
+[21May2025 01:19:16.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[21May2025 01:19:16.831] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[21May2025 01:20:13.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:56040] logged in with entity id 6048 at (-129.5, 75.5625, 1791.5)
+[21May2025 01:20:13.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[21May2025 01:20:14.671] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[21May2025 01:20:14.674] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[21May2025 01:20:14.677] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3977ms or 79 ticks
+[21May2025 01:20:24.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 01:20:25.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 01:20:25.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
+[21May2025 01:20:28.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
