@@ -1194,6 +1194,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-05-20 02:18:08 +0000",
+      "beef": "2025-05-21 04:40:59 +0000",
       "bread": "2025-05-20 02:08:21 +0000",
       "golden_apple": "2025-05-20 02:08:26 +0000",
       "golden_carrot": "2025-05-21 03:41:57 +0000"
@@ -1257,6 +1258,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-20 21:28:41 +0000",
+      "minecraft:magma_cube": "2025-05-21 04:30:04 +0000",
       "minecraft:spider": "2025-05-20 02:13:39 +0000",
       "minecraft:piglin_brute": "2025-05-20 22:54:12 +0000",
       "minecraft:creeper": "2025-05-20 02:16:21 +0000",
@@ -1989,6 +1991,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-05-20 22:59:32 +0000",
+      "minecraft:soul_sand_valley": "2025-05-21 04:47:52 +0000",
       "minecraft:basalt_deltas": "2025-05-20 22:52:55 +0000"
     },
     "done": false
@@ -2326,6 +2329,396 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-05-21 03:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-21 04:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-21 04:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-21 04:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-21 04:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-21 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-05-21 04:49:09 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-05-21 04:55:04 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-05-21 04:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-21 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-21 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-21 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-05-21 04:59:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2025-05-21 04:59:17 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-05-21 05:01:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart": {
+    "criteria": {
+      "has_golden_dart": "2025-05-21 05:03:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/enchanted_dart_enchanting": {
+    "criteria": {
+      "has_golden_dart": "2025-05-21 05:03:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword_repairing": {
+    "criteria": {
+      "has_zanite_sword": "2025-05-21 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ambrosium_block": {
+    "criteria": {
+      "has_ambrosium_shard": "2025-05-21 05:03:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant_repairing": {
+    "criteria": {
+      "has_zanite_pendant": "2025-05-21 05:03:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_pendant_from_freezing": {
+    "criteria": {
+      "has_pendant": "2025-05-21 05:03:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pendant": "2025-05-21 05:03:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pendant": "2025-05-21 05:03:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2025-05-21 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2025-05-21 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/blue_moa_incubation": {
+    "criteria": {
+      "has_blue_moa_egg": "2025-05-21 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2025-05-21 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/enchanted_dart_shooter_enchanting": {
+    "criteria": {
+      "has_golden_dart_shooter": "2025-05-21 05:04:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stone_from_light_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_light_angelic_stone": "2025-05-21 05:04:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-05-21 05:04:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2025-05-21 05:04:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe": {
+    "criteria": {
+      "has_zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_boots": {
+    "criteria": {
+      "has_zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wood_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_gloves": {
+    "criteria": {
+      "has_zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword": {
+    "criteria": {
+      "has_zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_leggings": {
+    "criteria": {
+      "has_zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_chestplate": {
+    "criteria": {
+      "has_zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/zanite_block": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant": {
+    "criteria": {
+      "has_zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/nature_staff": {
+    "criteria": {
+      "has_zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_hoe": {
+    "criteria": {
+      "has_zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring": {
+    "criteria": {
+      "has_zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_axe": {
+    "criteria": {
+      "has_zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_shovel": {
+    "criteria": {
+      "has_zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_helmet": {
+    "criteria": {
+      "has_zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-05-21 05:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-05-21 05:17:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-05-21 05:17:18 +0000"
     },
     "done": true
   },
