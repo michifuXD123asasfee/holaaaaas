@@ -722,3 +722,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [21May2025 01:31:23.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef40286f-d554-34b8-a90a-d191eb82b21b
 [21May2025 01:31:24.618] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef40286f-d554-34b8-a90a-d191eb82b21b
 [21May2025 01:31:24.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat
+[21May2025 01:35:18.259] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3053ms or 61 ticks
+[21May2025 01:36:19.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was killed
+[21May2025 01:36:19.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Killed crisrob]
+[21May2025 01:36:19.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:56628] logged in with entity id 10711 at (-127.9350765864475, 75.875, 1791.4585860615778)
+[21May2025 01:36:20.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[21May2025 01:36:20.222] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3102ms or 62 ticks
+[21May2025 01:36:20.961] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[21May2025 01:36:20.963] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[21May2025 01:36:24.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> uy hola
+[21May2025 01:36:40.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[21May2025 01:36:49.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no me carga xd
+[21May2025 01:36:58.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Disconnected
+[21May2025 01:36:58.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
+[21May2025 01:36:58.927] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client crisrob
+[21May2025 01:36:59.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server creo que me va a sacar
+[21May2025 01:37:09.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 01:37:11.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 01:37:11.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
+[21May2025 01:37:15.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
+[21May2025 01:37:15.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[21May2025 01:37:15.888] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[21May2025 01:37:17.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/172.23.165.195:53706] logged in with entity id 11082 at (-128.8823661657387, 76.0, 1790.5574729700252)
+[21May2025 01:37:17.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[21May2025 01:37:18.353] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
+[21May2025 01:37:18.353] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
+[21May2025 01:37:18.354] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3593ms or 71 ticks
+[21May2025 01:37:24.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef40286f-d554-34b8-a90a-d191eb82b21b
+[21May2025 01:37:25.925] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef40286f-d554-34b8-a90a-d191eb82b21b
+[21May2025 01:37:25.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat
+[21May2025 01:41:42.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=75, z=1779} BlockPos{x=-118, y=74, z=1777}
+[21May2025 01:44:04.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server ay me conecto peor esta vez enserio xd
+[21May2025 01:50:28.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Disconnected
+[21May2025 01:50:28.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
+[21May2025 01:50:28.831] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client crisrob
+[21May2025 01:51:02.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/172.23.165.195:53713] logged in with entity id 14873 at (-139.3459394997569, 74.0, 1792.2098383814634)
+[21May2025 01:51:02.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[21May2025 01:51:03.132] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
+[21May2025 01:51:03.133] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
+[21May2025 01:51:03.134] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3720ms or 74 ticks
+[21May2025 01:51:13.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef40286f-d554-34b8-a90a-d191eb82b21b
+[21May2025 01:51:14.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef40286f-d554-34b8-a90a-d191eb82b21b
+[21May2025 01:51:14.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat
+[21May2025 01:51:48.890] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ef40286f-d554-34b8-a90a-d191eb82b21b timed out
+[21May2025 01:51:48.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player crisrob
+[21May2025 01:51:48.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
