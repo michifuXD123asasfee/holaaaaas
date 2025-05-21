@@ -43,6 +43,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-21 15:49:50 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-20 21:41:17 +0000",
       "minecraft:taiga": "2025-05-20 21:56:45 +0000",
       "minecraft:cherry_grove": "2025-05-20 23:28:23 +0000",
@@ -53,6 +54,7 @@
       "minecraft:stony_shore": "2025-05-20 23:32:45 +0000",
       "minecraft:dripstone_caves": "2025-05-20 00:20:37 +0000",
       "minecraft:grove": "2025-05-20 23:27:25 +0000",
+      "minecraft:jagged_peaks": "2025-05-21 15:50:04 +0000",
       "minecraft:cold_ocean": "2025-05-21 15:30:28 +0000",
       "minecraft:forest": "2025-05-20 00:05:54 +0000",
       "minecraft:lush_caves": "2025-05-20 21:41:43 +0000",
@@ -2723,6 +2725,36 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_aercloud_freezing": {
+    "criteria": {
+      "has_cold_aercloud": "2025-05-21 15:27:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2025-05-21 15:27:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
+    "criteria": {
+      "has_cold_aercloud": "2025-05-21 15:27:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-05-21 15:28:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2025-05-21 15:28:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/skyroot_hoe": {
     "criteria": {
       "has_planks": "2025-05-21 15:28:11 +0000"
@@ -2759,45 +2791,15 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/blue_aercloud_freezing": {
-    "criteria": {
-      "has_cold_aercloud": "2025-05-21 15:27:00 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/swet_sticky_piston": {
-    "criteria": {
-      "has_swet_balls": "2025-05-21 15:33:23 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/swet_lead": {
-    "criteria": {
-      "has_swet_balls": "2025-05-21 15:33:23 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/redstone/skyroot_pressure_plate": {
     "criteria": {
       "has_skyroot_planks": "2025-05-21 15:28:11 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/cold_parachute": {
-    "criteria": {
-      "has_cold_aercloud": "2025-05-21 15:27:00 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/skyroot_sword": {
     "criteria": {
       "has_planks": "2025-05-21 15:28:11 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
-    "criteria": {
-      "has_cold_aercloud": "2025-05-21 15:27:00 +0000"
     },
     "done": true
   },
@@ -2837,18 +2839,6 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/skyroot_planks": {
-    "criteria": {
-      "has_logs": "2025-05-21 15:28:06 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/swet_slime_block": {
-    "criteria": {
-      "has_swet_balls": "2025-05-21 15:33:23 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/redstone/skyroot_trapdoor": {
     "criteria": {
       "has_skyroot_planks": "2025-05-21 15:28:11 +0000"
@@ -2873,15 +2863,201 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/skyroot_wood": {
-    "criteria": {
-      "has_log": "2025-05-21 15:28:06 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/redstone/skyroot_fence_gate": {
     "criteria": {
       "has_skyroot_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2025-05-21 15:33:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-05-21 15:33:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2025-05-21 15:33:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_bricks": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_pickaxe": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_pressure_plate": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/healing_stone_enchanting": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_stonecutter": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/altar": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/incubator": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_brick_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_brick_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_hoe": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_bricks_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/holystone_sword": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_shovel": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_with_vine": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/freezer": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_with_moss": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_axe": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_button": {
+    "criteria": {
+      "has_holystone": "2025-05-21 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/quicksoil_glass_enchanting": {
+    "criteria": {
+      "has_quicksoil": "2025-05-21 15:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-21 15:50:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_shovel_repairing": {
+    "criteria": {
+      "has_zanite_shovel": "2025-05-21 15:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-21 15:50:33 +0000"
     },
     "done": true
   },

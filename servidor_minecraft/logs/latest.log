@@ -626,3 +626,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [21May2025 15:32:54.145] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4062ms or 81 ticks
 [21May2025 15:34:13.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 fell from a high place
 [21May2025 15:34:21.052] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3044ms or 60 ticks
+[21May2025 15:39:38.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 hit the ground too hard
+[21May2025 15:39:43.401] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3102ms or 62 ticks
+[21May2025 15:41:44.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 440519aa-b504-3d33-a29d-8bfbe2066cf3 timed out
+[21May2025 15:41:44.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player davixelpro123
+[21May2025 15:41:44.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[21May2025 15:41:48.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 15:41:49.866] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 15:41:49.867] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
+[21May2025 15:42:59.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[21May2025 15:42:59.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[21May2025 15:42:59.781] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[21May2025 15:42:59.845] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21May2025 15:44:04.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:63944] logged in with entity id 10324 at (-116.07402154561574, 74.0, 1775.6674113263387)
+[21May2025 15:44:04.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[21May2025 15:44:05.417] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[21May2025 15:44:05.418] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[21May2025 15:44:12.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 15:44:13.990] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 15:44:13.994] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
+[21May2025 15:44:14.437] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3082ms or 61 ticks
+[21May2025 15:55:02.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
+[21May2025 15:55:31.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[21May2025 15:55:52.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
+[21May2025 15:56:16.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[21May2025 15:58:02.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 440519aa-b504-3d33-a29d-8bfbe2066cf3 timed out
+[21May2025 15:58:02.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player davixelpro123
+[21May2025 15:58:02.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[21May2025 15:58:15.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 15:58:17.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[21May2025 15:58:19.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 15:58:19.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
+[21May2025 15:58:23.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
