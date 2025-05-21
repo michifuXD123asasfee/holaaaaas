@@ -44,6 +44,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-20 21:56:39 +0000",
+      "minecraft:cherry_grove": "2025-05-21 03:49:35 +0000",
       "minecraft:birch_forest": "2025-05-20 21:00:19 +0000",
       "minecraft:wooded_badlands": "2025-05-20 20:30:48 +0000",
       "minecraft:badlands": "2025-05-20 20:29:32 +0000",
@@ -326,6 +327,7 @@
       "minecraft:spider": "2025-05-20 00:15:57 +0000",
       "minecraft:piglin_brute": "2025-05-20 22:54:06 +0000",
       "minecraft:creeper": "2025-05-20 00:34:28 +0000",
+      "minecraft:cave_spider": "2025-05-21 03:51:10 +0000",
       "minecraft:piglin": "2025-05-20 23:01:52 +0000",
       "minecraft:zombie": "2025-05-19 23:59:19 +0000",
       "minecraft:zombie_villager": "2025-05-20 21:54:51 +0000"
@@ -2705,6 +2707,24 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-21 03:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-21 03:51:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-05-21 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-05-21 03:51:29 +0000"
     },
     "done": true
   },

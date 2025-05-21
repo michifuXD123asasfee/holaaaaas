@@ -710,3 +710,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [21May2025 03:41:11.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Ancient Guardian
 [21May2025 03:41:49.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> * se hace una paja *
 [21May2025 03:42:26.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! 7.100078056638836,-0.05636489789378629,-7.454954117338275
+[21May2025 03:44:20.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> unite al group
+[21May2025 03:44:40.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -10.04455324760903,2.024424088213692,-0.21101824560923887
+[21May2025 03:44:51.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -5.388197871931538,3.252203340253729,-8.098714784627418
+[21May2025 03:45:31.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> Libro de Hechizos de hierro
+[21May2025 03:46:57.755] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3014ms or 60 ticks
+[21May2025 03:48:01.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[21May2025 03:48:39.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved too quickly! -0.6432968427131982,-6.299967180130551,8.938513087178762
+[21May2025 03:48:41.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob fell from a high place
+[21May2025 03:48:47.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[21May2025 03:48:49.150] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3088ms or 61 ticks
+[21May2025 03:49:25.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was killed
+[21May2025 03:49:25.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Killed davixelpro123]
+[21May2025 03:49:40.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[21May2025 03:51:01.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[21May2025 03:51:29.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Magery]
+[21May2025 03:52:16.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Disconnected
+[21May2025 03:52:16.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
+[21May2025 03:52:16.061] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client crisrob
+[21May2025 03:52:38.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/172.23.165.195:56668] logged in with entity id 20403 at (-355.78980428713635, 29.0, 2110.263664299175)
+[21May2025 03:52:38.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[21May2025 03:52:40.051] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
+[21May2025 03:52:40.053] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
+[21May2025 03:52:47.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef40286f-d554-34b8-a90a-d191eb82b21b
+[21May2025 03:52:48.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef40286f-d554-34b8-a90a-d191eb82b21b
+[21May2025 03:52:48.260] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat

@@ -1195,7 +1195,8 @@
     "criteria": {
       "cooked_mutton": "2025-05-20 02:18:08 +0000",
       "bread": "2025-05-20 02:08:21 +0000",
-      "golden_apple": "2025-05-20 02:08:26 +0000"
+      "golden_apple": "2025-05-20 02:08:26 +0000",
+      "golden_carrot": "2025-05-21 03:41:57 +0000"
     },
     "done": false
   },
@@ -2307,6 +2308,24 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-05-21 03:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-21 03:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-21 03:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-21 03:52:37 +0000"
     },
     "done": true
   },
