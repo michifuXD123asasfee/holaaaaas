@@ -622,3 +622,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [21May2025 03:17:07.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Killed davixelpro123]
 [21May2025 03:17:38.516] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3101ms or 62 ticks
 [21May2025 03:21:51.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Magery]
+[21May2025 03:28:36.214] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3022ms or 60 ticks
+[21May2025 03:29:17.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> 38 1375
+[21May2025 03:29:19.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/172.23.165.195:56609] logged in with entity id 7072 at (-194.30000001192093, 8.0, 1779.5899999754702)
+[21May2025 03:29:19.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[21May2025 03:29:20.850] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
+[21May2025 03:29:20.852] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
+[21May2025 03:29:38.574] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef40286f-d554-34b8-a90a-d191eb82b21b
+[21May2025 03:29:39.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef40286f-d554-34b8-a90a-d191eb82b21b
+[21May2025 03:29:39.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat
+[21May2025 03:29:50.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que wea
+[21May2025 03:29:57.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por ?
+[21May2025 03:30:03.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> musica de boss
+[21May2025 03:30:11.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> uy mal hay
+[21May2025 03:30:12.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe
+[21May2025 03:30:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ahora se termino
+[21May2025 03:30:21.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> encontre la structura esa como castillo denuevo
+[21May2025 03:30:29.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a
+[21May2025 03:30:35.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tepeate asi lo loteamos
+[21May2025 03:30:43.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pera
+[21May2025 03:31:25.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[21May2025 03:31:30.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [An Imposter]
+[21May2025 03:31:41.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Ambusher
+[21May2025 03:31:42.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Ambusher
+[21May2025 03:31:47.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[21May2025 03:31:47.605] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3088ms or 61 ticks
+[21May2025 03:31:57.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
+[21May2025 03:31:59.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[21May2025 03:32:04.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Ambusher
+[21May2025 03:32:22.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[21May2025 03:32:24.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
