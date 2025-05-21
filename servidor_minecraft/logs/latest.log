@@ -687,3 +687,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [21May2025 01:20:25.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
 [21May2025 01:20:25.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
 [21May2025 01:20:28.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[21May2025 01:21:14.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[21May2025 01:21:14.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[21May2025 01:21:14.163] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[21May2025 01:21:34.799] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:56087] logged in with entity id 6684 at (-127.9350765864475, 75.875, 1791.4585860615778)
+[21May2025 01:21:34.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[21May2025 01:21:35.993] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[21May2025 01:21:35.994] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[21May2025 01:21:35.995] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3810ms or 76 ticks
+[21May2025 01:21:49.632] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 01:21:50.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 01:21:50.632] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
+[21May2025 01:21:54.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[21May2025 01:22:29.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[21May2025 01:22:29.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[21May2025 01:22:29.637] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[21May2025 01:23:18.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/172.23.94.5:56150] logged in with entity id 7260 at (-127.9350765864475, 75.875, 1791.4585860615778)
+[21May2025 01:23:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[21May2025 01:23:20.020] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[21May2025 01:23:20.022] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[21May2025 01:23:20.023] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3493ms or 69 ticks
+[21May2025 01:23:46.423] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 01:23:47.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 440519aa-b504-3d33-a29d-8bfbe2066cf3
+[21May2025 01:23:47.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player davixelpro123 (440519aa-b504-3d33-a29d-8bfbe2066cf3) successfully connected to voice chat
+[21May2025 01:24:15.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ASD
+[21May2025 01:24:15.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[21May2025 01:24:15.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[21May2025 01:24:15.129] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[21May2025 01:30:59.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/172.23.165.195:53694] logged in with entity id 7836 at (-129.5, 75.6875, 1791.5)
+[21May2025 01:30:59.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[21May2025 01:31:01.804] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
+[21May2025 01:31:01.807] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
+[21May2025 01:31:02.270] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3072ms or 61 ticks
+[21May2025 01:31:23.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef40286f-d554-34b8-a90a-d191eb82b21b
+[21May2025 01:31:24.618] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef40286f-d554-34b8-a90a-d191eb82b21b
+[21May2025 01:31:24.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat
