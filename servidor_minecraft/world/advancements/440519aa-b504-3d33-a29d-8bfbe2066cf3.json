@@ -53,6 +53,7 @@
       "minecraft:stony_shore": "2025-05-20 23:32:45 +0000",
       "minecraft:dripstone_caves": "2025-05-20 00:20:37 +0000",
       "minecraft:grove": "2025-05-20 23:27:25 +0000",
+      "minecraft:cold_ocean": "2025-05-21 15:30:28 +0000",
       "minecraft:forest": "2025-05-20 00:05:54 +0000",
       "minecraft:lush_caves": "2025-05-20 21:41:43 +0000",
       "minecraft:desert": "2025-05-20 00:22:09 +0000",
@@ -2719,6 +2720,168 @@
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2025-05-21 05:17:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_hoe": {
+    "criteria": {
+      "has_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fence": {
+    "criteria": {
+      "has_skyroot_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_shovel": {
+    "criteria": {
+      "has_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/skyroot_stick": {
+    "criteria": {
+      "has_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_aercloud_freezing": {
+    "criteria": {
+      "has_cold_aercloud": "2025-05-21 15:27:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2025-05-21 15:33:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-05-21 15:33:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_pressure_plate": {
+    "criteria": {
+      "has_skyroot_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2025-05-21 15:27:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_sword": {
+    "criteria": {
+      "has_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
+    "criteria": {
+      "has_cold_aercloud": "2025-05-21 15:27:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_sign": {
+    "criteria": {
+      "has_skyroot_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_pickaxe": {
+    "criteria": {
+      "has_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_stairs": {
+    "criteria": {
+      "has_skyroot_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_button": {
+    "criteria": {
+      "has_skyroot_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_axe": {
+    "criteria": {
+      "has_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/skyroot_bucket": {
+    "criteria": {
+      "has_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-05-21 15:28:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2025-05-21 15:33:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_trapdoor": {
+    "criteria": {
+      "has_skyroot_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_door": {
+    "criteria": {
+      "has_skyroot_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart_shooter": {
+    "criteria": {
+      "has_skyroot_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_slab": {
+    "criteria": {
+      "has_skyroot_planks": "2025-05-21 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2025-05-21 15:28:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_fence_gate": {
+    "criteria": {
+      "has_skyroot_planks": "2025-05-21 15:28:11 +0000"
     },
     "done": true
   },

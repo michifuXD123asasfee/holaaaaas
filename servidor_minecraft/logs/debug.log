@@ -5783,3 +5783,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [21May2025 15:26:45.335] [Worker-Main-21/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
 [21May2025 15:26:45.344] [Worker-Main-21/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
 [21May2025 15:26:45.344] [Worker-Main-21/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[21May2025 15:28:22.054] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[21May2025 15:28:22.071] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[21May2025 15:28:56.949] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4016ms or 80 ticks
+[21May2025 15:29:02.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 hit the ground too hard
+[21May2025 15:30:34.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 15:30:34.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 15:30:34.163] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3070ms or 61 ticks
+[21May2025 15:31:18.388] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[21May2025 15:32:05.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! 0.0,11.476442863571464,0.0
+[21May2025 15:32:37.645] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[21May2025 15:32:51.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 fell from a high place
+[21May2025 15:32:52.814] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[21May2025 15:32:53.246] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[21May2025 15:32:53.671] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[21May2025 15:32:54.145] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4062ms or 81 ticks
+[21May2025 15:34:13.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 fell from a high place
+[21May2025 15:34:18.821] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[21May2025 15:34:21.052] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3044ms or 60 ticks
+[21May2025 15:34:24.998] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[21May2025 15:35:34.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 15:35:34.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
