@@ -623,3 +623,49 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [23May2025 01:17:12.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
 [23May2025 01:19:34.749] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3525ms or 70 ticks
 [23May2025 01:21:48.922] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3080ms or 61 ticks
+[23May2025 01:24:55.097] [Worker-Main-43/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-87, y=57, z=1145}
+[23May2025 01:27:06.502] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3037ms or 60 ticks
+[23May2025 01:27:10.709] [Worker-Main-40/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-568, y=54, z=1193}
+[23May2025 01:27:55.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=34, z=1224} BlockPos{x=-231, y=34, z=1224}
+[23May2025 01:27:55.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=34, z=1224} BlockPos{x=-231, y=34, z=1224}
+[23May2025 01:27:56.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=34, z=1224} BlockPos{x=-231, y=34, z=1224}
+[23May2025 01:27:56.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=34, z=1224} BlockPos{x=-231, y=34, z=1224}
+[23May2025 01:27:56.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=34, z=1224} BlockPos{x=-231, y=34, z=1224}
+[23May2025 01:27:56.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=34, z=1224} BlockPos{x=-231, y=34, z=1224}
+[23May2025 01:27:56.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-233, y=37, z=1221} BlockPos{x=-231, y=34, z=1224}
+[23May2025 01:27:56.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=37, z=1223} BlockPos{x=-232, y=36, z=1222}
+[23May2025 01:27:56.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=37, z=1223} BlockPos{x=-232, y=36, z=1222}
+[23May2025 01:27:56.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=38, z=1222} BlockPos{x=-232, y=36, z=1222}
+[23May2025 01:27:56.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=38, z=1222} BlockPos{x=-232, y=36, z=1222}
+[23May2025 01:27:57.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=37, z=1223} BlockPos{x=-232, y=37, z=1224}
+[23May2025 01:27:57.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=38, z=1222} BlockPos{x=-232, y=37, z=1224}
+[23May2025 01:27:57.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=38, z=1222} BlockPos{x=-232, y=37, z=1224}
+[23May2025 01:27:57.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=39, z=1221} BlockPos{x=-232, y=37, z=1224}
+[23May2025 01:27:57.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=40, z=1221} BlockPos{x=-232, y=37, z=1224}
+[23May2025 01:27:58.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-231, y=37, z=1222} BlockPos{x=-232, y=36, z=1222}
+[23May2025 01:27:58.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-231, y=38, z=1222} BlockPos{x=-232, y=36, z=1222}
+[23May2025 01:27:58.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-231, y=37, z=1223} BlockPos{x=-232, y=36, z=1222}
+[23May2025 01:27:58.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-231, y=37, z=1223} BlockPos{x=-232, y=36, z=1222}
+[23May2025 01:27:58.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-230, y=39, z=1222} BlockPos{x=-232, y=36, z=1222}
+[23May2025 01:27:58.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-231, y=38, z=1223} BlockPos{x=-232, y=36, z=1222}
+[23May2025 01:27:59.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-231, y=38, z=1222} BlockPos{x=-232, y=36, z=1222}
+[23May2025 01:27:59.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-231, y=37, z=1223} BlockPos{x=-232, y=36, z=1222}
+[23May2025 01:29:09.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=47, z=1174} BlockPos{x=-240, y=47, z=1174}
+[23May2025 01:29:19.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-238, y=46, z=1174} BlockPos{x=-235, y=44, z=1173}
+[23May2025 01:29:19.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-235, y=45, z=1174} BlockPos{x=-235, y=44, z=1173}
+[23May2025 01:29:19.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-235, y=45, z=1174} BlockPos{x=-235, y=44, z=1173}
+[23May2025 01:29:19.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-236, y=45, z=1174} BlockPos{x=-235, y=44, z=1173}
+[23May2025 01:30:55.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cold Parachute (vehicle of davixelpro123) moved too quickly! -0.2618386831893247,-320.27488806008677,0.16060047839846447
+[23May2025 01:30:55.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cold Parachute (vehicle of davixelpro123) moved too quickly! -0.5241440153263568,-320.52488806008677,0.32368259115264664
+[23May2025 01:30:55.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cold Parachute (vehicle of davixelpro123) moved too quickly! -0.7868739980180521,-320.77488806008677,0.48902299123597004
+[23May2025 01:30:55.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cold Parachute (vehicle of davixelpro123) moved too quickly! -1.0444061215858085,-321.02488806008677,0.6582086644357332
+[23May2025 01:30:55.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cold Parachute (vehicle of davixelpro123) moved too quickly! -1.3027028467889465,-321.27488806008677,0.8292297912239519
+[23May2025 01:30:55.987] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4061ms or 81 ticks
+[23May2025 01:30:55.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
+[23May2025 01:32:20.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Who is Cutting Onions?]
+[23May2025 01:33:28.844] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3082ms or 61 ticks
+[23May2025 01:34:13.664] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3306ms or 66 ticks
+[23May2025 01:35:10.521] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3033ms or 60 ticks
+[23May2025 01:37:11.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
+[23May2025 01:37:11.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[23May2025 01:37:11.699] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
