@@ -6238,3 +6238,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [23May2025 01:54:15.521] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
 [23May2025 01:54:51.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23May2025 01:54:51.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 01:56:13.286] [Worker-Main-83/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-83 shutdown
+[23May2025 01:56:29.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved too quickly! 10.448120281033198,0.0,0.18253731077334123
+[23May2025 01:56:32.674] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[23May2025 01:56:33.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Into Fire]
+[23May2025 01:56:37.067] [IO-Worker-90/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[23May2025 01:56:39.803] [IO-Worker-92/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[23May2025 01:56:45.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Wither Skeleton
+[23May2025 01:56:46.500] [IO-Worker-92/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[23May2025 01:56:46.501] [IO-Worker-92/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[23May2025 01:56:46.501] [IO-Worker-90/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[23May2025 01:56:46.864] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3296ms or 65 ticks
+[23May2025 01:57:10.971] [IO-Worker-96/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[23May2025 01:57:44.397] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3010ms or 60 ticks
+[23May2025 01:58:20.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved too quickly! 0.0,-10.556602614620111,0.0
+[23May2025 01:59:51.524] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[23May2025 01:59:51.525] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[23May2025 01:59:51.527] [IO-Worker-92/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[23May2025 01:59:51.529] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[23May2025 01:59:51.529] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[23May2025 01:59:51.529] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[23May2025 01:59:51.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 01:59:51.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 02:01:12.803] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[23May2025 02:01:12.854] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[23May2025 02:01:12.917] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[23May2025 02:01:26.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Hidden in the Depths]
+[23May2025 02:02:45.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved wrongly!
+[23May2025 02:03:07.703] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[23May2025 02:03:07.703] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[23May2025 02:03:37.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was killed
+[23May2025 02:03:37.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Killed crisrob]
+[23May2025 02:03:41.670] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[23May2025 02:03:49.075] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[23May2025 02:03:53.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Set own game mode to Spectator Mode]
+[23May2025 02:04:51.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 02:04:51.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 02:05:02.402] [Worker-Main-82/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-82 shutdown
+[23May2025 02:05:15.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Set own game mode to Survival Mode]
+[23May2025 02:05:16.432] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112

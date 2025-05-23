@@ -680,3 +680,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [23May2025 01:44:52.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat
 [23May2025 01:45:35.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved too quickly! -2.108644531759662,-10.188594643186804,0.13259161217212068
 [23May2025 01:53:24.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [A Terrible Fortress]
+[23May2025 01:56:29.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved too quickly! 10.448120281033198,0.0,0.18253731077334123
+[23May2025 01:56:33.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Into Fire]
+[23May2025 01:56:45.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Wither Skeleton
+[23May2025 01:56:46.864] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3296ms or 65 ticks
+[23May2025 01:57:44.397] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3010ms or 60 ticks
+[23May2025 01:58:20.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved too quickly! 0.0,-10.556602614620111,0.0
+[23May2025 02:01:26.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Hidden in the Depths]
+[23May2025 02:02:45.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved wrongly!
+[23May2025 02:03:37.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was killed
+[23May2025 02:03:37.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Killed crisrob]
+[23May2025 02:03:53.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Set own game mode to Spectator Mode]
+[23May2025 02:05:15.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Set own game mode to Survival Mode]
