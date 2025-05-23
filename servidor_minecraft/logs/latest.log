@@ -669,3 +669,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [23May2025 01:37:11.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
 [23May2025 01:37:11.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
 [23May2025 01:37:11.699] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[23May2025 01:44:27.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/172.23.165.195:61996] logged in with entity id 9111 at (4.403899860978616, 98.0, 200.31688370562853)
+[23May2025 01:44:27.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[23May2025 01:44:32.436] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
+[23May2025 01:44:32.439] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
+[23May2025 01:44:32.440] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 7324ms or 146 ticks
+[23May2025 01:44:32.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4646ms or 92 ticks behind
+[23May2025 01:44:51.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef40286f-d554-34b8-a90a-d191eb82b21b
+[23May2025 01:44:52.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef40286f-d554-34b8-a90a-d191eb82b21b
+[23May2025 01:44:52.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player crisrob (ef40286f-d554-34b8-a90a-d191eb82b21b) successfully connected to voice chat
+[23May2025 01:45:35.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved too quickly! -2.108644531759662,-10.188594643186804,0.13259161217212068
+[23May2025 01:53:24.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [A Terrible Fortress]
