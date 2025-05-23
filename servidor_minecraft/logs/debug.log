@@ -5759,3 +5759,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [23May2025 01:12:58.152] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-19
 [23May2025 01:12:58.358] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
 [23May2025 01:12:58.477] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[23May2025 01:13:58.494] [Worker-Main-19/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-19 shutdown
+[23May2025 01:13:58.856] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-22
+[23May2025 01:13:58.898] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[23May2025 01:13:58.901] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[23May2025 01:13:58.983] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[23May2025 01:13:59.088] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[23May2025 01:13:59.134] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[23May2025 01:13:59.253] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[23May2025 01:14:35.404] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3971ms or 79 ticks
+[23May2025 01:14:35.931] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[23May2025 01:14:37.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[23May2025 01:14:39.586] [Server thread/DEBUG] [mixin/]: Mixing optimizations.sync_loads.SleepInBedMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.SleepInBed
+[23May2025 01:14:39.603] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:optimizations.sync_loads.SleepInBedMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23May2025 01:14:39.622] [Server thread/DEBUG] [mixin/]: Mixing features.breeding_cap.tasks.VillagerMakeLoveMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[23May2025 01:14:39.623] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.VillagerMakeLoveMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23May2025 01:14:45.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 01:14:45.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 01:16:27.955] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[23May2025 01:16:28.702] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[23May2025 01:16:28.747] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[23May2025 01:16:28.930] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[23May2025 01:16:35.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
+[23May2025 01:17:12.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[23May2025 01:18:42.213] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[23May2025 01:18:55.639] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[23May2025 01:19:26.827] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[23May2025 01:19:26.828] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[23May2025 01:19:34.749] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3525ms or 70 ticks
+[23May2025 01:19:35.394] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[23May2025 01:19:44.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 01:19:44.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 01:19:59.250] [Worker-Main-22/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23May2025 01:19:59.251] [Worker-Main-22/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23May2025 01:19:59.251] [Worker-Main-22/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23May2025 01:19:59.251] [Worker-Main-22/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23May2025 01:19:59.252] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[23May2025 01:19:59.254] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[23May2025 01:19:59.335] [Worker-Main-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-39
+[23May2025 01:19:59.342] [Worker-Main-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-40
+[23May2025 01:19:59.344] [Worker-Main-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-41
+[23May2025 01:19:59.424] [Worker-Main-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-42
+[23May2025 01:19:59.604] [Worker-Main-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-43
+[23May2025 01:20:00.088] [Worker-Main-22/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23May2025 01:20:00.092] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23May2025 01:20:00.092] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23May2025 01:20:00.093] [Worker-Main-22/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[23May2025 01:20:00.108] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[23May2025 01:20:00.109] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[23May2025 01:20:00.155] [Worker-Main-40/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[23May2025 01:21:48.922] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3080ms or 61 ticks
+[23May2025 01:21:59.534] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44

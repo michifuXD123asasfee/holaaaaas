@@ -3237,9 +3237,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
+  "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
-      "has_glow_ink_sac": "2025-05-21 16:22:14 +0000"
+      "has_diamond_shovel": "2025-05-21 16:21:38 +0000"
     },
     "done": true
   },
@@ -3249,9 +3249,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_shovel_repairing": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_diamond_shovel": "2025-05-21 16:21:38 +0000"
+      "has_glow_ink_sac": "2025-05-21 16:22:14 +0000"
     },
     "done": true
   },
